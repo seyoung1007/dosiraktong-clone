@@ -14,4 +14,11 @@ window.addEventListener("load", () => {
       },
     },
   });
+  // business-modal
+  const businessModal = document.querySelector(".business-modal")
+  businessModal.addEventListener("click" , ()=>{
+    console.log("click");
+    
+    businessModal.style.display = "none"
+  })
 });
