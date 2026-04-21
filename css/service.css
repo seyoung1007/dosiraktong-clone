@@ -1,7 +1,7 @@
 .service {
   position: relative;
   height: auto;
-  background-color: aqua;
+  /* background-color: aqua; */
   /* min-height: 800px; */
   padding: 180px 0 210px;
 }
